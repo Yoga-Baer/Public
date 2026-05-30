@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/bernhard/**)",
+      "Bash(ssh -T git@github.com)",
+      "Bash(git remote *)",
+      "Bash(chmod +x publish.sh)",
+      "Bash(./publish.sh \"Add index.html and publish workflow\")"
+    ]
+  }
+}
