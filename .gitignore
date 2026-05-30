@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Obsidian configuration
+.obsidian/
+.vault-stats
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+Thumbs.db
