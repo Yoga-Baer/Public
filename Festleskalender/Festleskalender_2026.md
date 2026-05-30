@@ -2,7 +2,7 @@
 
 > Stand: **2026-05-29** · **163 Veranstaltungen** · Region ≤ 60 min Anfahrt von Remseck
 
-Siehe [[README]] · [[quellen/Quellen|Quellen]] · [[privat/Privattermine|Privattermine]] · [[logs/Recherche_2026-05-18|Log]]
+Siehe [[README]] · [[quellen/Quellen|Quellen]] · [[logs/Recherche_2026-05-18|Log]]
 
 ## Übersicht
 

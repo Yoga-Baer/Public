@@ -11,7 +11,6 @@ Festleskalender/
 ├── Festleskalender_2026.md         Hauptdatei: chronologische Tabelle aller Feste 2026
 ├── feste/                          Eine .md je Fest mit YAML-Frontmatter
 ├── quellen/Quellen.md              Quellenliste mit letzter Prüfung
-├── privat/Privattermine.md         Mopedtour, Urlaube, M&B-Reisen (Tag #privat)
 ├── logs/Recherche_YYYY-MM-DD.md    Was wurde wann recherchiert, was neu, was bestätigt
 └── archiv/                         Originaldateien, Vorjahresversionen
 ```
@@ -55,4 +54,3 @@ Sortiert chronologisch. Pausierte Feste am Ende mit Nächstem-Datum-Hinweis.
 - Kategorien: kleinbuchstaben, mehrere möglich
 - Quellen werden mit URL und Zugriffsdatum protokolliert
 - Bei Wissenslücken: Status `erwartet` + Hinweis im Frontmatter
-- Privattermine bleiben in `privat/`, Tag `#privat` für Cross-Referenzen
