@@ -4,20 +4,20 @@
   "title": "Install Git and connect to GitHub",
   "titleGenerationStatus": "success",
   "createdAt": 1780159337013,
-  "updatedAt": 1780163170709,
-  "lastResponseAt": 1780163170709,
+  "updatedAt": 1780167855261,
+  "lastResponseAt": 1780167855261,
   "sessionId": "bf13e1d8-d33d-41a3-83bc-a09407a99603",
   "providerState": {
     "providerSessionId": "bf13e1d8-d33d-41a3-83bc-a09407a99603"
   },
   "usage": {
-    "model": "sonnet",
-    "inputTokens": 3,
-    "cacheCreationInputTokens": 381,
-    "cacheReadInputTokens": 30788,
-    "contextWindow": 200000,
-    "contextTokens": 31172,
-    "percentage": 16,
+    "model": "opus",
+    "inputTokens": 6,
+    "cacheCreationInputTokens": 501,
+    "cacheReadInputTokens": 54705,
+    "contextWindow": 1000000,
+    "contextTokens": 55212,
+    "percentage": 6,
     "contextWindowIsAuthoritative": true
   }
 }

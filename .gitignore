@@ -5,6 +5,11 @@
 .obsidian/
 .vault-stats
 
+# Private content (nicht öffentlich!)
+Festleskalender/privat/
+**/privat/
+*.privat.md
+
 # Editor & IDE
 .vscode/
 .idea/
