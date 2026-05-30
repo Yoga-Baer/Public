@@ -4,8 +4,8 @@
   "title": "Install Git and connect to GitHub",
   "titleGenerationStatus": "success",
   "createdAt": 1780159337013,
-  "updatedAt": 1780168603226,
-  "lastResponseAt": 1780168603226,
+  "updatedAt": 1780168823914,
+  "lastResponseAt": 1780168823914,
   "sessionId": "bf13e1d8-d33d-41a3-83bc-a09407a99603",
   "providerState": {
     "providerSessionId": "bf13e1d8-d33d-41a3-83bc-a09407a99603"
@@ -13,10 +13,10 @@
   "usage": {
     "model": "opus",
     "inputTokens": 1,
-    "cacheCreationInputTokens": 345,
-    "cacheReadInputTokens": 66172,
+    "cacheCreationInputTokens": 333,
+    "cacheReadInputTokens": 72219,
     "contextWindow": 1000000,
-    "contextTokens": 66518,
+    "contextTokens": 72553,
     "percentage": 7,
     "contextWindowIsAuthoritative": true
   }
