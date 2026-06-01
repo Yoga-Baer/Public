@@ -1,27 +1,27 @@
 ---
 titel: "Feuerseefest Stuttgart"
-datum_von: 2026-07-31
-datum_bis: 2026-08-03
+datum_von: 2026-07-09
+datum_bis: 2026-07-12
 ort: "Stuttgart"
 fahrzeit_min: null
 kategorie: [konzert_kultur]
 status: bestätigt
 url: "https://feuerseefest.de/"
-quelle: "rosenau-stuttgart.de"
-geprueft_am: 2026-05-18
-zuverlaessigkeit: mittel
+quelle: "feuerseefest.de"
+geprueft_am: 2026-05-31
+zuverlaessigkeit: hoch
 eintritt: ""
 tags: [konzert_kultur]
 ---
 
 # Feuerseefest Stuttgart
 
-**Hinweis:** Termin neu auf Ende Juli/Anfang August verlegt (statt September). 13. Auflage. Rund um Feuersee/Johanneskirche.
+**Hinweis:** 14. Feuerseefest. Termin 2026 vorverlegt auf 09.–12.07. (Korrektur 2026-05-31; 31.07.–03.08. war der Vorjahrestermin 2025). Rund um Feuersee/Johanneskirche.
 
 ## Daten
-- **Datum:** 2026-07-31 bis 2026-08-03
+- **Datum:** 2026-07-09 bis 2026-07-12
 - **Ort:** Stuttgart
-- **Website:** [rosenau-stuttgart.de](https://feuerseefest.de/)
+- **Website:** [feuerseefest.de](https://feuerseefest.de/)
 
 
 ## Karte
@@ -29,5 +29,5 @@ tags: [konzert_kultur]
 - [🅿️ Parkplatz / Parkhaus in der Nähe](https://www.google.com/maps/search/?api=1&query=Parkplatz%20Feuerseefest%20Stuttgart)
 
 ## Quelle
-- Geprüft am 2026-05-18, Zuverlässigkeit: **mittel**
-- [rosenau-stuttgart.de](https://feuerseefest.de/)
+- Geprüft am 2026-05-31, Zuverlässigkeit: **hoch**
+- [feuerseefest.de](https://feuerseefest.de/)

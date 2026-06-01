@@ -2,26 +2,26 @@
 titel: "Latin Festival Wangen Stuttgart"
 datum_von: 2026-12-03
 datum_bis: 2026-12-07
-ort: "Stuttgart"
+ort: "Stuttgart-Untertürkheim (Sängerhalle)"
 fahrzeit_min: null
 kategorie: [sonstiges]
 status: bestätigt
 url: "https://latin-festival.de/"
-quelle: "salsavida.com"
-geprueft_am: 2026-05-18
-zuverlaessigkeit: mittel
+quelle: "latin-festival.de"
+geprueft_am: 2026-05-31
+zuverlaessigkeit: hoch
 eintritt: ""
 tags: [sonstiges]
 ---
 
 # Latin Festival Wangen Stuttgart
 
-**Hinweis:** 20. Auflage. Salsa, Mambo, Bachata Workshops. Venues u.a. Club La Pachanga, Sängerhalle Untertürkheim.
+**Hinweis:** 20. Auflage. Salsa, Mambo, Bachata Workshops. Hauptort: Sängerhalle Stuttgart-Untertürkheim (Lindenschulstr. 29, 70327 Stuttgart) – NICHT Stuttgart-Wangen (Ort korrigiert 2026-05-31). Datum bestätigt.
 
 ## Daten
 - **Datum:** 2026-12-03 bis 2026-12-07
-- **Ort:** Stuttgart
-- **Website:** [salsavida.com](https://latin-festival.de/)
+- **Ort:** Stuttgart-Untertürkheim (Sängerhalle)
+- **Website:** [latin-festival.de](https://latin-festival.de/)
 
 
 ## Karte
@@ -29,5 +29,5 @@ tags: [sonstiges]
 - [🅿️ Parkplatz / Parkhaus in der Nähe](https://www.google.com/maps/search/?api=1&query=Parkhaus%20Stuttgart%20Innenstadt)
 
 ## Quelle
-- Geprüft am 2026-05-18, Zuverlässigkeit: **mittel**
-- [salsavida.com](https://latin-festival.de/)
+- Geprüft am 2026-05-31, Zuverlässigkeit: **hoch**
+- [latin-festival.de](https://latin-festival.de/)

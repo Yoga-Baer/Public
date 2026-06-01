@@ -34,3 +34,21 @@ Die meisten der Quellen sind als Aggregator gedacht, lieferten aber teilweise nu
 - https://www.bietigheim-bissingen.de/kultur-sport-freizeit/veranstaltungen/
 - https://www.boeblingen.de/Stadtportal/veranstaltungen
 - https://www.sindelfingen.de/veranstaltungskalender
+
+
+## Neu verifizierte offizielle Quellen (Prüfung 2026-05-31)
+
+Im Rahmen der vollständigen Datumsprüfung ab Juni 2026 als verlässlich (Z: hoch) bestätigt:
+
+| Quelle | URL | letzte Prüfung |
+|---|---|---|
+| Feuerseefest Stuttgart (Veranstalter) | https://feuerseefest.de/ | 2026-05-31 |
+| Estival / ESTiVAL POP-UP Esslingen | https://www.esslingen-info.com/veranstaltungen/estival-pop-up-auf-dem-rathausplatz-2026 | 2026-05-31 |
+| Motorworld Overland & Vanlife Festival | https://motorworld.de/event/overland-vanlife-festival-stuttgart-2026/ | 2026-05-31 |
+| Bietigheimer Pferdemarkt (Stadt) | https://www.bietigheim-bissingen.de/kultur-sport-freizeit/veranstaltungen/veranstaltungen/bietigheimer-pferdemarkt/ | 2026-05-31 |
+| Burg Hohenzollern – Hohenzollerntage | https://burg-hohenzollern.com/en/events/hohenzollern-days | 2026-05-31 |
+| Adventsmarkt Burg Stettenfels (mittelalterfest.net) | https://www.mittelalterfest.net/index.php?id=256 | 2026-05-31 |
+| Latin Festival Stuttgart (Veranstalter) | https://latin-festival.de/ | 2026-05-31 |
+| Heidelberg Marketing – Schlossbeleuchtung | https://www.heidelberg-marketing.de/en/event/heidelberg-castle-illuminations-992c032a90 | 2026-05-31 |
+| Heilbronn Marketing – Veranstaltungen | https://www.heilbronn.de/tourismus/veranstaltungen/ | 2026-05-31 |
+| visit.ludwigsburg.de – Events | https://visit.ludwigsburg.de/start/events.html | 2026-05-31 |

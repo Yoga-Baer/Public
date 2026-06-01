@@ -11,7 +11,8 @@
       "Bash(git push *)",
       "Bash(cd \"/Users/bernhard/Library/Mobile Documents/iCloud~md~obsidian/Documents/Public\" && ls -la Festleskalender/privat/ && echo \"---\" && rm -rf Festleskalender/privat/ && echo \"Gelöscht.\" && ls Festleskalender/ | head -20)",
       "Bash(./publish.sh \"Privattermine-Referenzen entfernt\")",
-      "Bash(./publish.sh \"Add CLAUDE.md für KI-Assistenten\")"
+      "Bash(./publish.sh \"Add CLAUDE.md für KI-Assistenten\")",
+      "Bash(./publish.sh \"Neue Festleskalender-HTML\")"
     ]
   }
 }

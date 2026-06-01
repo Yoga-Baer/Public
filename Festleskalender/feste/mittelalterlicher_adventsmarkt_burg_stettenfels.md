@@ -1,14 +1,14 @@
 ---
 titel: "Mittelalterlicher Adventsmarkt Burg Stettenfels"
-datum_von: 2026-12-19
-datum_bis: 2026-12-20
+datum_von: 2026-12-20
+datum_bis: 2026-12-21
 ort: "Stettenfels"
 fahrzeit_min: null
 kategorie: [mittelaltermarkt, weihnachtsmarkt]
 status: bestätigt
 url: "https://www.burg-stettenfels.de/"
-quelle: "moritz.de"
-geprueft_am: 2026-05-18
+quelle: "mittelalterfest.net"
+geprueft_am: 2026-05-31
 zuverlaessigkeit: hoch
 eintritt: ""
 tags: [mittelaltermarkt, weihnachtsmarkt]
@@ -16,12 +16,12 @@ tags: [mittelaltermarkt, weihnachtsmarkt]
 
 # Mittelalterlicher Adventsmarkt Burg Stettenfels
 
-**Hinweis:** 13. Auflage. Sa 13-21, So 11-19 Uhr. Über 60 Stände.
+**Hinweis:** 13. Auflage. Sa 13–21, So 11–19 Uhr. Über 60 Stände. Termin korrigiert auf 20.–21.12. (2026-05-31).
 
 ## Daten
-- **Datum:** 2026-12-19 bis 2026-12-20
+- **Datum:** 2026-12-20 bis 2026-12-21
 - **Ort:** Stettenfels
-- **Website:** [moritz.de](https://www.burg-stettenfels.de/)
+- **Website:** [mittelalterfest.net](https://www.mittelalterfest.net/index.php?id=256)
 
 
 ## Karte
@@ -29,5 +29,5 @@ tags: [mittelaltermarkt, weihnachtsmarkt]
 - [🅿️ Parkplatz / Parkhaus in der Nähe](https://www.google.com/maps/search/?api=1&query=Parkplatz%20Mittelalterlicher%20Adventsmarkt%20Burg%20Stettenfels)
 
 ## Quelle
-- Geprüft am 2026-05-18, Zuverlässigkeit: **hoch**
-- [moritz.de](https://www.burg-stettenfels.de/)
+- Geprüft am 2026-05-31, Zuverlässigkeit: **hoch**
+- [mittelalterfest.net](https://www.mittelalterfest.net/index.php?id=256)
